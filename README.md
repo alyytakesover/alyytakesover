@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hey , I'm ALISHA  (alyy)</h1>
-<h3 align="center">Aspiring Data Scientist | Exploring AI, Analytics, and Automation</h3>
+<h3 align="center">Aspiring Data Science student | Exploring AI, Analytics, and Automation</h3>
 
 ---
 
