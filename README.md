@@ -1,10 +1,10 @@
 <!-- Profile Header -->
-<h1 align="center">Hey 👋, I'm ALISHA  (alyy)</h1>
+<h1 align="center">Hey , I'm ALISHA  (alyy)</h1>
 <h3 align="center">Aspiring Data Scientist | Exploring AI, Analytics, and Automation</h3>
 
 ---
 
-### 🧠 About Me
+###  About Me
 🎓 I'm passionate about turning data into insight and intelligence.  
 🔍 Currently exploring **AI foundations, Data Science, and Cloud tools**.  
 📘 Skilled in using **Excel, Weka, Python, and Jupyter/Colab** for analytics.  
