@@ -50,7 +50,7 @@
 ### Oracle Cloud Infrastructure 2025 AI Foundations Associate
 
 <p align="center">
-  <img src="https://github.com/alyytakesover/alyytakesover/blob/main/OCI25AICFA(1).jpeg" alt="Oracle AI Foundations Badge" width="150"/>
+  <img src="https://github.com/alyytakesover/alyytakesover/blob/main/OCI25AICFA%20(1).jpeg" alt="Oracle AI Foundations Badge" width="150"/>
 </p>
 
 <p align="center">
